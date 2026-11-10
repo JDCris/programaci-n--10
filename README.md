@@ -1,2 +1,2 @@
-# programaci-n--10
-Repositorio Colegio Cientifico de Puriscal 1Décimo 2026
+# programación-10
+Repositorio Colegio Cientifico de Puriscal Décimo 2026
